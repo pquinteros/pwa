@@ -1,4 +1,4 @@
-Example application using `next-offline` with Now 2.0
+Example application next.js using `next-offline` with Now 2.0
 
 
 URL: https://pwa.pquinteros.now.sh/
